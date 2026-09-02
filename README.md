@@ -1,5 +1,5 @@
 <p align="center">
-  <strong> Data Science | Psychometrics | Data Analytics & Machine Learning <strong><br>
+  <strong> Data Science | Psychometrics | Data Analytics & Machine Learning </strong><br>
   🖥️📈🧠
 </p>
 
