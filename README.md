@@ -1,7 +1,7 @@
 <p align="center">
   <strong> Data Science | Psychometrics | Data Analytics & Machine Learning <strong><br>
   🖥️📈🧠
-  </p>
+</p>
 
 I am a psychologist specialized in Data Science, with a focus on psychometrics, statistical modeling, and machine learning. I work with different types of data, with a particular interest in human behavior and psychological data.
 
