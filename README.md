@@ -1,9 +1,9 @@
 #### Data Science | Psychometrics | Data Analytics & Machine Learning 🖥️📈🧠
 
-I'm a psychologist specialized in Data Science, psychometrics, statistical modeling and machine learning. I manage every type of data, but prefer focusing on human behavior and psychological data.
+I am a psychologist specialized in Data Science, with a focus on psychometrics, statistical modeling, and machine learning. I work with different types of data, with a particular interest in human behavior and psychological data.
 
-I have done dataworks with differente focus: from cleaning or exploring data, until designing, predicting and parametrizing models.
-Also, I made a few works with databases (mainly SQL) and net analysis (Gephi)
+I have worked on data projects with different focuses, ranging from data cleaning and exploratory analysis to model development, prediction, and parameter estimation. I've also worked with databases, mainly using SQL, as well as network analysis using Gephi.
+
 
 #### Tools
 - Python
