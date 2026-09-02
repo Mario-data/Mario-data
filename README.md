@@ -7,8 +7,9 @@ I am a psychologist specialized in Data Science, with a focus on statistical mod
 
 I have worked on data projects with different focuses, ranging from data cleaning and exploratory analysis to model development, prediction, and parameter estimation. I've also worked with databases, mainly using SQL, as well as network analysis using Gephi.
 
-<div style="margin-left: 30px;">
-  
+<table>
+  <tr>
+    <td>
 **Data Analytics:** pandas · NumPy · tidyverse
 
 **Machine Learning:** scikit-learn · TensorFlow · caret
@@ -20,5 +21,6 @@ I have worked on data projects with different focuses, ranging from data cleanin
 **Databases:** SQL
 
 **Network Analysis:** Gephi
-
-</div>
+    </td>
+  </tr>
+</table>
