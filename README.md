@@ -10,6 +10,7 @@ I have worked on data projects with different focuses, ranging from data cleanin
 <table>
   <tr>
     <td>
+      
 **Data Analytics:** pandas · NumPy · tidyverse
 
 **Machine Learning:** scikit-learn · TensorFlow · caret
@@ -21,6 +22,7 @@ I have worked on data projects with different focuses, ranging from data cleanin
 **Databases:** SQL
 
 **Network Analysis:** Gephi
+
     </td>
   </tr>
 </table>
