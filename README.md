@@ -9,15 +9,16 @@ I have worked on data projects with different focuses, ranging from data cleanin
 
 <div style="margin-left: 30px;">
   
-**- Data Analytics:** pandas · NumPy · tidyverse
+**Data Analytics:** pandas · NumPy · tidyverse
 
-**- Machine Learning:** scikit-learn · TensorFlow · caret
+**Machine Learning:** scikit-learn · TensorFlow · caret
 
-**- Psychometrics:** psych · lavaan · lordif
+**Psychometrics:** psych · lavaan · lordif
 
-**- Visualization:** Matplotlib · ggplot2
+**Visualization:** Matplotlib · ggplot2
 
-**- Databases:** SQL
+**Databases:** SQL
 
-**- Network Analysis:** Gephi
+**Network Analysis:** Gephi
+
 </div>
