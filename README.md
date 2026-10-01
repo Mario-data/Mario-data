@@ -14,7 +14,7 @@ I have worked on data projects in Python and R with different focuses, ranging f
 
 &nbsp;&nbsp;&nbsp;**Psychometrics:** `psych` · `lavaan` · `lordif`
 
-&nbsp;&nbsp;&nbsp;**Visualization:** `Matplotlib` · `ggplot2` · `Power B`
+&nbsp;&nbsp;&nbsp;**Visualization:** `Matplotlib` · `ggplot2` · `Power BI`
 
 &nbsp;&nbsp;&nbsp;**Databases:** `SQL`
 
