@@ -19,3 +19,11 @@ I have worked on data projects in Python and R with different focuses, ranging f
 &nbsp;&nbsp;&nbsp;**Databases:** `SQL`
 
 &nbsp;&nbsp;&nbsp;**Network Analysis:** `Gephi`
+
+
+<p align="center">
+  <img src="assets/behavioral_data_science_overview.gif"
+       alt="Behavioral Data Science"
+       width="100%">
+</p>
+
