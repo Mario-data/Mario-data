@@ -16,7 +16,7 @@ I have worked on data projects in Python and R with different focuses, ranging f
 
 &nbsp;&nbsp;&nbsp;**Visualization:** `Matplotlib` · `ggplot2` · `Power BI`
 
-&nbsp;&nbsp;&nbsp;**Databases:** `SQL`
+&nbsp;&nbsp;&nbsp;**Databases:** `SQL` · `NoSQL`
 
 &nbsp;&nbsp;&nbsp;**Network Analysis:** `Gephi`
 
